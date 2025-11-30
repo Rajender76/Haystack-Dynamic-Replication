@@ -253,3 +253,9 @@ Workers → Execute replications in parallel
 Nightly (2 AM) → Full audit of ALL photos
 ```
 
+
+### Team Members
+SRIRAM METLA - 2024201059
+ANNAM RAJENDER REDDY - 2024202016
+ADHIVISHNU MODAPU - 2024202028
+
